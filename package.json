@@ -1,8 +1,8 @@
 {
-  "name": "leaflet.chinatmsproviders",
-  "version": "3.0.6",
+  "name": "leaflet.chinatmsproviders-correct-offset",
+  "version": "1.0.1",
   "description": "An extension to Leaflet that contains configurations for various Chinese tile providers.",
-  "main": "src/leaflet.ChineseTmsProviders.js",
+  "main": "src/leaflet.ChineseTmsProviders.CorrectOffset.js",
   "directories": {
     "example": "examples",
     "lib": "lib"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htoooth/Leaflet.ChineseTmsProviders.git"
+    "url": "git+https://github.com/artoriaforDY/Leaflet.ChineseTmsProviders-correctOffset.git"
   },
   "keywords": [
     "leaflet",
